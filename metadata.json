@@ -1,0 +1,7 @@
+{
+  "name": "StoreFinder AI",
+  "description": "Smart store discovery using Google Maps Grounding. Find detailed information about businesses, restaurants, and services near you.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
